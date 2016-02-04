@@ -1,5 +1,5 @@
-#ifndef _BEN120_Park_HPP
-#define _BEN120_Park_HPP
+#ifndef Park_HPP
+#define Park_HPP
 
 #include <iostream>
 #include <string>
@@ -16,7 +16,7 @@ class Park {
     void critterToBarn(std::string name);
     void critterToPark(std::string name);
     void buyCritter();
-    void setAdmission(double fee); 
+    void setAdmission(double fee);
     void sellCritter(std::string critter);
     int hasEmptyDisplay();
     //Effective Phase

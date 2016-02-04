@@ -1,5 +1,5 @@
-#ifndef _BEN120_gameStats_HPP
-#define _BEN120_gameStats_HPP
+#ifndef gameStats_HPP
+#define gameStats_HPP
 
 #include <iostream>
 #include <string>

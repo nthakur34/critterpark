@@ -4,18 +4,12 @@ HW9 for 600.120.02, Fall 2015
 Navjyoth Thakur
 nthakur2
 nthakur2@jhu.edu
-2019236387
 2015-11-09
 
-Sherry Chiu
-schiu9
-schiu9@jhu.edu
-7329476211
-2015-11-09
 */
 
-#ifndef _BEN_120_GAMEPLAY_HPP
-#define _BEN_120_GAMEPLAY_HPP
+#ifndef GAMEPLAY_HPP
+#define GAMEPLAY_HPP
 
 #include <iostream>
 #include <string>

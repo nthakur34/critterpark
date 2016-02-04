@@ -1,5 +1,5 @@
-#ifndef _BEN_120_SKIN_HPP
-#define _BEN_120_SKIN_HPP
+#ifndef SKIN_HPP
+#define SKIN_HPP
 #include <iostream>
 #include <string>
 #include <map>
@@ -30,7 +30,7 @@ class Skin {
     static std::map<string, unsigned int> skinColorK;
     static std::map<unsigned int, Trait> skinTypeM;
     static std::map<string, unsigned int> skinTypeK;
-    
+
 
     Encoding &genome;
     unsigned int colorNum;

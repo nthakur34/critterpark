@@ -1,5 +1,5 @@
-#ifndef _BEN120_TRAIT_HPP
-#define _BEN120_TRAIT_HPP
+#ifndef TRAIT_HPP
+#define TRAIT_HPP
 #include <string>
 #include <iostream>
 #include <map>
@@ -23,7 +23,7 @@ class Trait {
     int scariness;
     int weirdness;
     std::string description;
-    
+
 };
 
 Trait & operator+= (Trait & thisTrait, const Trait & other);

@@ -1,5 +1,5 @@
-#ifndef _BEN120_ParkUI_HPP
-#define _BEN120_ParkUI_HPP
+#ifndef ParkUI_HPP
+#define ParkUI_HPP
 
 #include <iostream>
 #include <string>

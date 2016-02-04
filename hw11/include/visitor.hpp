@@ -1,5 +1,5 @@
-#ifndef _BEN120_VISITOR_HPP
-#define _BEN120_VISITOR_HPP
+#ifndef VISITOR_HPP
+#define VISITOR_HPP
 
 #include <iostream>
 #include <string>

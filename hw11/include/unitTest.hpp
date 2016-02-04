@@ -1,5 +1,5 @@
-#ifndef _BEN_120_TEST_HPP
-#define _BEN_120_TEST_HPP
+#ifndef TEST_HPP
+#define TEST_HPP
 
 #include <iostream>
 #include <string>

@@ -1,5 +1,5 @@
-#ifndef _BEN_120_FARMUI_HPP
-#define _BEN_120_FARMUI_HPP
+#ifndef FARMUI_HPP
+#define FARMUI_HPP
 
 #include <iostream>
 #include <string>

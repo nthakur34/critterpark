@@ -1,5 +1,5 @@
-#ifndef _BEN_120_ENCODING_HPP
-#define _BEN_120_ENCODING_HPP
+#ifndef ENCODING_HPP
+#define ENCODING_HPP
 #include <iostream>
 #include <cstdlib>
 
@@ -13,7 +13,7 @@ class Encoding {
     unsigned int getBitField (int offset, int width);
     void setBitField (int offset, int width,
         unsigned int value);
-    
+
     void mutate(double mutationRate);
     encoding_t crossover(const encoding_t &other, double crossoverRate);
     static void unitTest();

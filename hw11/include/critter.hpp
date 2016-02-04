@@ -1,5 +1,5 @@
-#ifndef _BEN_120_CRITTER_HPP
-#define _BEN_120_CRITTER_HPP
+#ifndef CRITTER_HPP
+#define CRITTER_HPP
 
 #include <iostream>
 #include <cstdio>
@@ -45,7 +45,7 @@ class Critter {
     std::string skinString;
     std::string totalTrait;
     unsigned long temp;
-    Trait allTrait; 
+    Trait allTrait;
     int cuteRep;
     int scaryRep;
     int weirdRep;

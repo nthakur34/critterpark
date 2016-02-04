@@ -1,18 +1,9 @@
 HW11 for 600.120.02, Fall 2015
 
 Navjyoth Thakur
-nthakur2
-nthakur2@jhu.edu
-2019236387
 2015-11-29
 
-Sherry Chiu
-schiu9
-schiu9@jhu.edu
-7329476211
-2015-11-29
-
-Our program allows the player to manage a farm and a critter-themed park. Instructions
+This program allows the player to manage a farm and a critter-themed park. Instructions
 are available in game, at any time for the player to access. The goal is to reach $10,000.
 
 Source Files:
@@ -40,7 +31,7 @@ To run a test run of the main game play, run "../data/testGame.sh"
     functions in the classes work as they should. Make sure to scroll up 
     to see what each input does.
 
-We chose .03 as the mutation factor, and .1 for the crossover factor.
+Chose .03 as the mutation factor, and .1 for the crossover factor.
 
 Warning: FarmUI does not have a unitTest since it doesnt act as an object, but
 rather it simply acts upon a map of critters passed onto it. it also uses its

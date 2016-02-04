@@ -1,5 +1,5 @@
-#ifndef _BEN_120_LIMBS_HPP
-#define _BEN_120_LIMBS_HPP
+#ifndef LIMBS_HPP
+#define LIMBS_HPP
 #include <iostream>
 #include <string>
 #include <map>
@@ -34,7 +34,7 @@ class Limbs
     static std::map<unsigned int, Trait> thicknessM;
     static std::map<std::string, unsigned int> numK;
     static std::map<unsigned int, Trait> numM;
-    
+
     Encoding &genome;
     string number; //4 bits
     string thickness;//2 bits

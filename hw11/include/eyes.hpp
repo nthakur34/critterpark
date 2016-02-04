@@ -1,5 +1,5 @@
-#ifndef _BEN_120_EYES_HPP
-#define _BEN_120_EYES_HPP
+#ifndef EYES_HPP
+#define EYES_HPP
 #include <iostream>
 #include <string>
 #include <map>

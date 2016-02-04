@@ -1,14 +1,5 @@
 /*
 Navjyoth Thakur
-nthakur2
-nthakur2@jhu.edu
-2019236387
-2015-11-29
-
-Sherry Chiu
-schiu9
-schiu9@jhu.edu
-7329476211
 2015-11-29
 */
 
