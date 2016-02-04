@@ -1,0 +1,61 @@
+changeset:   105:70b7fbba2f7f
+tag:         tip
+user:        Nav Thakur <nthakur2>
+date:        Sun Nov 29 15:31:03 2015 -0500
+summary:     fully, and properly functioning game, with proper instructions
+
+changeset:   104:bd783eb303ae
+user:        Sherry Chiu <schiu9@jhu.edu>
+date:        Wed Nov 25 17:56:04 2015 -0500
+summary:     added test1.txt for testing
+
+changeset:   102:3a9b97783730
+user:        Sherry Chiu <schiu9@jhu.edu>
+date:        Wed Nov 25 11:37:50 2015 -0500
+summary:     added comments, deleted unnecessary code
+
+changeset:   101:132aa9321718
+user:        Nav Thakur <nthakur2>
+date:        Tue Nov 24 23:34:31 2015 -0500
+summary:     Spruced up format
+
+changeset:   100:d153666099cd
+user:        Nav Thakur <nthakur2>
+date:        Mon Nov 23 23:46:15 2015 -0500
+summary:     clarified instructions
+
+changeset:   99:861181b33ca5
+user:        Nav Thakur <nthakur2>
+date:        Mon Nov 23 23:34:20 2015 -0500
+summary:     added better losing-winning mechanism
+
+changeset:   98:4c5a96a2a6ca
+user:        Nav Thakur <nthakur2>
+date:        Mon Nov 23 21:45:08 2015 -0500
+summary:     GamePlay works as expected
+
+changeset:   96:2495abad5b20
+user:        Sherry Chiu <schiu9@jhu.edu>
+date:        Mon Nov 23 18:04:17 2015 -0500
+summary:     finished ParkUI
+
+changeset:   94:61fa1c1ccb43
+user:        Sherry Chiu <schiu9@jhu.edu>
+date:        Mon Nov 23 15:53:15 2015 -0500
+summary:     finished all fucntions of Park besides buyCritter
+
+changeset:   93:3d3d09ea074a
+user:        Sherry Chiu <schiu9@jhu.edu>
+date:        Mon Nov 23 13:36:43 2015 -0500
+summary:     changed ParkUI's name to Park
+
+changeset:   92:47bdefd0be5d
+user:        Sherry Chiu <schiu9@jhu.edu>
+date:        Sun Nov 22 20:03:09 2015 -0500
+summary:     created ParkUI.cpp and worked on effectPhase
+
+changeset:   90:510f16ea32aa
+user:        Sherry Chiu <schiu9@jhu.edu>
+date:        Sun Nov 22 17:12:05 2015 -0500
+summary:     added gameStats
+
